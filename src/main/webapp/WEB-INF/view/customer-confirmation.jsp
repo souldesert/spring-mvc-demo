@@ -13,6 +13,8 @@
 </head>
 <body>
 The customer is confirmed: ${customer.firstName} ${customer.lastName}
+<br>
+Free passes: ${customer.freePasses}
 <hr>
 <a href="${pageContext.request.contextPath}">Back to home page</a>
 </body>
