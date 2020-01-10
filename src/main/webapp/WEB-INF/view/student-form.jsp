@@ -32,6 +32,12 @@
     C# <form:radiobutton path="favoriteLanguage" value="C#"/>
     Python <form:radiobutton path="favoriteLanguage" value="Python"/>
     Haskell <form:radiobutton path="favoriteLanguage" value="Haskell"/>
+    <br><br>
+
+    Operating Systems:
+    Windows <form:checkbox path="operatingSystems" value="Windows"/>
+    MacOS <form:checkbox path="operatingSystems" value="MacOS"/>
+    Linux <form:checkbox path="operatingSystems" value="Linux"/>
 
     <input type="submit" value="Submit">
 </form:form>
