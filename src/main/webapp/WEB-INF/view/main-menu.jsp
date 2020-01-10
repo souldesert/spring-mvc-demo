@@ -13,6 +13,8 @@
 <body>
 <h2>Spring MVC Demo - Home Page</h2>
 <hr>
-<a href="hello/showForm">Hello World - form</a>
+<a href="hello/showForm">Hello World - show form</a>
+<br><br>
+<a href="student/showForm">Student - show form</a>
 </body>
 </html>
