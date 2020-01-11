@@ -22,6 +22,9 @@ Free passes: ${customer.freePasses}
 Postal code: ${customer.postalCode}
 <br>
 
+Course code: ${customer.courseCode}
+<br>
+
 <hr>
 <a href="${pageContext.request.contextPath}">Back to home page</a>
 </body>
